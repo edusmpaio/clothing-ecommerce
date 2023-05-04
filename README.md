@@ -1,10 +1,10 @@
-<h1 align="center">Ecommerce de roupas</h1>
+<h1 align="center">E-commerce de roupas</h1>
 
 <img src="https://user-images.githubusercontent.com/98369541/236221194-8ec8f60c-ba95-4375-b576-a8fed03c9b07.png" alt="preview do projeto">
 
 ## 💻 Sobre o projeto
 
-Este projeto foi feito para o aprendizado do fluxo de um ecommerce, apresentando as seguintes features:
+Este projeto foi feito para o aprendizado do fluxo de um e-commerce, apresentando as seguintes features:
 
 - Adicionar um produto ao carrinho
 - Visualizar página com detalhes de um produto
