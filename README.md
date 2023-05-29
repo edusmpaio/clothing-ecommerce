@@ -17,7 +17,7 @@ Este projeto foi feito para o aprendizado do fluxo de um e-commerce, apresentand
 
 - Vite
 - React
-- TypesScript
+- TypeScript
 - React Router Dom
 - Tailwind CSS
 
